@@ -1,3 +1,6 @@
+# Ignore local homework notes
+content/domashki.md
+
 .DS_Store
 .gitignore
 node_modules
